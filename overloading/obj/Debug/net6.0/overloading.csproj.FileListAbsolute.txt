@@ -1,0 +1,15 @@
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\bin\Debug\net6.0\overloading.exe
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\bin\Debug\net6.0\overloading.deps.json
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\bin\Debug\net6.0\overloading.runtimeconfig.json
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\bin\Debug\net6.0\overloading.dll
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\bin\Debug\net6.0\overloading.pdb
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.csproj.AssemblyReference.cache
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.AssemblyInfoInputs.cache
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.AssemblyInfo.cs
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.csproj.CoreCompileInputs.cache
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.dll
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\refint\overloading.dll
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.pdb
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\overloading.genruntimeconfig.cache
+D:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\5\kode\overloading\overloading\obj\Debug\net6.0\ref\overloading.dll
